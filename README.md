@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitha9948" alt="harshitha9948" /></a> </p>
 
-- 🔭 I’m currently working on **A task automation platform integrated with AWS Lambda and S3**
+- 🔭 I’m currently working on **Full stack web apps with React and Node.js**
 
 - 🌱 I’m currently learning **AWS developer certification,react.js,kubernetes**
 
