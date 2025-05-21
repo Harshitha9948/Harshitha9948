@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative full-stack SaaS products using React,and Express**
 
-- 💬 Ask me about **html,css,js,docker,devops**
+- 💬 Ask me about **html,css,js,python,docker,devops**
 
 - 📫 How to reach me **muppaharshithareddy99@gmail.com**
 
